@@ -1,26 +1,29 @@
-¡Hola! Soy Andrés Sepúlveda👋
+# ¡HOLA! SOY ANDRÉS SEPÚLVEDA👋
 
-Soy un analista y científico de datos apasionado por el código y la programación. Me especializo en descubrir patrones ocultos en los datos y convertir información numérica en conocimientos valiosos. 🚀 Siempre estoy buscando oportunidades para aprender y colaborar en proyectos, ya que creo que compartir conocimientos es fundamental para crecer en este campo.
+SOY UN ANALISTA Y CIENTÍFICO DE DATOS APASIONADO POR EL CÓDIGO Y LA PROGRAMACIÓN. ME ESPECIALIZO EN DESCUBRIR PATRONES OCULTOS EN LOS DATOS Y CONVERTIR INFORMACIÓN NUMÉRICA EN CONOCIMIENTOS VALIOSOS. 🚀 SIEMPRE ESTOY BUSCANDO OPORTUNIDADES PARA APRENDER Y COLABORAR EN PROYECTOS, YA QUE CREO QUE COMPARTIR CONOCIMIENTOS ES FUNDAMENTAL PARA CRECER EN ESTE CAMPO.
 
-Sobre Mí
-🔭 Actualmente, estoy trabajando en proyectos de análisis de datos y optimizando mis habilidades en Python, R, SQL y NoSQL.
+## SOBRE MÍ
+🔭 ACTUALMENTE, ESTOY TRABAJANDO EN PROYECTOS DE ANÁLISIS DE DATOS Y OPTIMIZANDO MIS HABILIDADES EN PYTHON, R, SQL Y NOSQL.
 
-🌱 Me mantengo en constante aprendizaje, explorando nuevas librerías y tecnologías, y adentrándome en áreas como Machine Learning y desarrollo de aplicaciones web.
+🌱 ME MANTENGO EN CONSTANTE APRENDIZAJE, EXPLORANDO NUEVAS LIBRERÍAS Y TECNOLOGÍAS, Y ADENTRÁNDOME EN ÁREAS COMO MACHINE LEARNING Y DESARROLLO DE APLICACIONES WEB.
 
-👯 Estoy abierto a colaborar en proyectos innovadores que involucren ciencia de datos, integración con APIs, y herramientas como Streamlit y Flask.
+👯 ESTOY ABIERTO A COLABORAR EN PROYECTOS INNOVADORES QUE INVOLUCREN CIENCIA DE DATOS, INTEGRACIÓN CON APIS, Y HERRAMIENTAS COMO STREAMLIT Y FLASK.
 
-🤔 Busco oportunidades laborales en programación y análisis de datos.
+🤔 BUSCO OPORTUNIDADES LABORALES EN PROGRAMACIÓN Y ANÁLISIS DE DATOS.
 
-💬 No dudes en preguntarme sobre Python, SQL, Machine Learning o cualquier otra tecnología que te interese.
+💬 NO DUDES EN PREGUNTARME SOBRE PYTHON, SQL, MACHINE LEARNING O CUALQUIER OTRA TECNOLOGÍA QUE TE INTERESE.
 
-📫 Cómo contactarme: 📧 andressepulvedanascimento@gmail.com
+📫 CÓMO CONTACTARME:📧 ANDRESSEPULVEDANASCIMENTO@GMAIL.COM
 
-⚡ Dato curioso: He trabajado en proyectos destacados como un modelo predictivo para el valor de coches y una aplicación que transforma documentos PDF en conversaciones interactivas.
+⚡ DATO CURIOSO: HE TRABAJADO EN PROYECTOS DESTACADOS COMO UN MODELO PREDICTIVO PARA EL VALOR DE JUGADORES DE FUTBOL .
 
-🛠️ Tecnologías y Herramientas
+## 🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
-Lenguajes: Python, R, SQL, NoSQL
-Herramientas: Visual Studio Code, RStudio, Power BI, MongoDB, MySQL Workbench, Docker
-Bases de Datos: MongoDB, CouchDB, MySQL
-¡Siéntete libre de explorar mis proyectos y contribuir a cualquier iniciativa que te interese!
+- **LENGUAJES:** PYTHON, R, SQL, NOSQL
+- **HERRAMIENTAS:** VISUAL STUDIO CODE, RSTUDIO, POWER BI, MONGODB, MYSQL WORKBENCH, DOCKER
+- **BASES DE DATOS:** MONGODB, COUCHDB, MYSQL
+
+¡SIÉNTETE LIBRE DE EXPLORAR MIS PROYECTOS Y CONTRIBUIR A CUALQUIER INICIATIVA QUE TE INTERESE!
+
+
 
